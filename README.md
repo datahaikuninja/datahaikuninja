@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=go,rust,python,terraform,newrelic,github,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,terraform,docker,kubernetes,gcp,aws,neovim,github,githubactions" />
 </p>
 
 <h3 align="left">My Activities:</h3>
