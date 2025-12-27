@@ -13,7 +13,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=go,rust,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,terraform,newrelic,github,aws,gcp" />
+</p>
+
+<h3 align="left">My Activities:</h3>
+<p align="left">
+    <ul>
+        <li>Blog:
+            <ul>
+                <li>[Implementing a Worker Pool with Pub/Sub to Limit Concurrency for BigQuery Reverse ETL Jobs](https://techblog.tver.co.jp/entry/takashina/implementing-a-worker-pool-to-limit-concurrency-for-bigquery-reverse-etl-jobs-using-pubsub)</li>
+                <li>[Presented at Google Cloud Next Tokyo '25](https://techblog.tver.co.jp/entry/takashina/google-cloud-next-tokyo-25-presentation)</li>
+                <li>[Using New Relic Change Tracking to Identify Application Performance Changes](https://techblog.tver.co.jp/entry/takashina/tver-advent-calendar-2023-newrelic-change-tracking)</li>
+                <li>[datahaikuninja's Articles on Zenn](https://zenn.dev/datahaikuninja)</li>
+                <li>[datahaikuninja's Articles on Qiita](https://qiita.com/datahaikuninja/items)</li>
+            </ul>
+        </li>
+        <li>Presentations:
+            <ul>
+                <li>[Change Tracking for Deployment Performance Analysis](https://speakerdeck.com/techtver/20240319-nrug-vol9-change-tracking)</li>
+                <li>[GraphQL Caching on Amazon CloudFront for Performance Optimization at LOWYA](https://speakerdeck.com/datahaikuninja/lowyaniokerufu-he-dui-ce-togao-su-hua-graphql-caching-on-amazon-cloudfront-with-aws-prototyping-program)</li>
+            </ul>
+        </li>
+        <li>Sessions:
+            <ul>
+                <li>[TVer's Ad Delivery Platform: A Hybrid Memorystore & Bigtable Approach with Practical Tuning (Google Cloud Next Tokyo '25)](https://youtu.be/0g3N_hxSGPs?si=Bk8LaV9UeceFzbpe)</li>
+            </ul>
+        </li>
+    </ul>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
