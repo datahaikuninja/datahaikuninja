@@ -29,6 +29,10 @@
 *   Sessions:
     *   [TVer's Ad Delivery Platform: A Hybrid Memorystore & Bigtable Approach with Practical Tuning (Google Cloud Next Tokyo '25)](https://youtu.be/0g3N_hxSGPs?si=Bk8LaV9UeceFzbpe)
 
+### Resume
+
+[datahaikuninja/resume](https://github.com/datahaikuninja/resume/blob/main/resume/main.pdf)
+
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datahaikuninja&show_icons=true&locale=en" alt="datahaikuninja" /></p>
 
