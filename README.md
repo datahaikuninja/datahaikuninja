@@ -17,6 +17,9 @@
 </p>
 
 ### My Activities:
+
+*   Sessions:
+    *   [TVer's Ad Delivery Platform: A Hybrid Memorystore & Bigtable Approach with Practical Tuning (Google Cloud Next Tokyo '25)](https://youtu.be/0g3N_hxSGPs?si=Bk8LaV9UeceFzbpe)
 *   Blog:
     *   [Implementing a Worker Pool with Pub/Sub to Limit Concurrency for BigQuery Reverse ETL Jobs](https://techblog.tver.co.jp/entry/takashina/implementing-a-worker-pool-to-limit-concurrency-for-bigquery-reverse-etl-jobs-using-pubsub)
     *   [Presented at Google Cloud Next Tokyo '25](https://techblog.tver.co.jp/entry/takashina/google-cloud-next-tokyo-25-presentation)
@@ -24,10 +27,9 @@
     *   [datahaikuninja's Articles on Zenn](https://zenn.dev/datahaikuninja)
     *   [datahaikuninja's Articles on Qiita](https://qiita.com/datahaikuninja/items)
 *   Presentations:
+    *   [Implementing a Worker Pool with Pub/Sub to Limit Concurrency for BigQuery Reverse ETL Jobs](https://speakerdeck.com/techtver/implementing-a-worker-pool-to-limit-concurrency-for-bigquery-reverse-etl-jobs-using-pubsub)
     *   [Change Tracking for Deployment Performance Analysis](https://speakerdeck.com/techtver/20240319-nrug-vol9-change-tracking)
     *   [GraphQL Caching on Amazon CloudFront for Performance Optimization at LOWYA](https://speakerdeck.com/datahaikuninja/lowyaniokerufu-he-dui-ce-togao-su-hua-graphql-caching-on-amazon-cloudfront-with-aws-prototyping-program)
-*   Sessions:
-    *   [TVer's Ad Delivery Platform: A Hybrid Memorystore & Bigtable Approach with Practical Tuning (Google Cloud Next Tokyo '25)](https://youtu.be/0g3N_hxSGPs?si=Bk8LaV9UeceFzbpe)
 
 ### Resume
 
